@@ -1,1 +1,1 @@
-((nil . ((cmake-ide-build-dir . "../build/release"))))
+((nil . ((cmake-ide-build-dir . "/home/muhmud/code/github.com/muhmud/timer-status/build/release"))))
